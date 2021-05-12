@@ -1,5 +1,3 @@
-
 minecraftinstance.json
-minecraftinstance.json
-logs/latest.log
+logs/**
 .mixin.out/**
